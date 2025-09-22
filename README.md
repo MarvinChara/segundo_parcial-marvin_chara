@@ -1,3 +1,17 @@
+## Framework CSS elegido
+Este proyecto utiliza **Bootstrap 5** como framework CSS.
+
+## Template utilizado
+Se usó el template gratuito **GP Template** de [BootstrapMade](https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/).
+
+### Licencia
+Este template es distribuido bajo la licencia **BootstrapMade Free License**.  
+Más detalles en: [https://bootstrapmade.com/license/](https://bootstrapmade.com/license/)
+
+---
+
+
+
 ## CSS Framework elegido
 
 Se eligió **Bootstrap** como framework CSS para el proyecto, por su facilidad de uso y rapidez de implementación.
